@@ -1,0 +1,14 @@
+.container{
+     width: 500px;
+}
+.grid {
+  display: flex;
+  justify-content: right;
+}
+i{
+     margin-top: 3px;
+     text-align: right;
+}
+.trash{
+cursor: pointer;
+}

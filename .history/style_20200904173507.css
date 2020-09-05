@@ -1,0 +1,15 @@
+
+.container {
+  width: 500px;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+i {
+  margin-top: 3px;
+  text-align: right;
+}
+.trash {
+  cursor: pointer;
+}

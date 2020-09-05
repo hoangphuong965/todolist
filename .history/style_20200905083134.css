@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(49, 0, 95);
+}
+.container {
+  width: 500px;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+i {
+  margin-top: 3px;
+  text-align: right;
+}
+.trash, .edit {
+  cursor: pointer;
+}
+.text {
+  cursor: col-resize;
+}
+h1 {
+  color: aliceblue;
+}
+
+.edit-btn{
+  display: none;
+}
+.done {
+    text-decoration: line-through;
+    bac
+}

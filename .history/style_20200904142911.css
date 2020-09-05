@@ -1,0 +1,11 @@
+.container{
+     width: 800px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+i{
+     margin-top: 3px;
+     text-align: right;
+}

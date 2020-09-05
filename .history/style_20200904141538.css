@@ -1,0 +1,4 @@
+.tst {
+  display: grid;
+  grid-template-columns: auto auto au;
+}
